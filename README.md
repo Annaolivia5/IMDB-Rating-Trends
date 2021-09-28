@@ -19,12 +19,14 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
 # Analysis
 * Q1: 
     * Scatterplot r-value: 0.25822381247916004. Runtime did not have an impact on IMDB ratings.
+    ![IMDB V Runtime Scatterplt](/Figures/01_IMDB_v_Runtime_scatter.png "IMDB V Runtime")
 * Q2: 
     * Alternative: If a high IMDB rating earned more money, then movies rated above 7.9 will make more than movies rates below 7.9.
     * Null: If a high IMDB rating does not earned more money, then movies rated above 7.9 will not make more money than movies rates below 7.9.
     * P-value=0.0707467425988131
 * Q3: 
     * R-value = 0.280894. There was a positive but weak correlation between IMDB rating and metascore
+    ![IMDB V Meta Scatterplt](/Figures/03_imdb_v_meta_scatter.png "IMDB V Scatterplt")
 * Q4: 
     * Alternative: If A rated movies have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will be higher than the IMDB rating for UA rated  movies.
     * Null: If A rated movies do not have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will not be higher than the IMDB rating for UA rated movies.
@@ -33,5 +35,5 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
 
 
 
-![IMDB V Runtime Scatterplt](/Figures/01_IMDB_v_Runtime_scatter.png "IMDB V Runtime")
-![IMDB V Meta Scatterplt](/Figures/03_imdb_v_meta_scatter.png "IMDB V Scatterplt")
+
+
