@@ -15,3 +15,4 @@ Time constraint - When we began looking at the data, we weren’t entirely sure 
 We realized that our question about A vs. UA certificates did not answer our question. If we had taken a random sample of movies and compared the certificates of those movies with the ones on the top 1000, we would have had a better idea of which certificates are likely to increase chance of being on the top 1000 list. 
 
 ![IMDB V Runtime Scatterplt](/Figures/01_IMDB_v_Runtime_scatter.png "IMDB V Runtime")
+![IMDB V Meta Scatterplt](/Figures/03_imdb_v_meta_scatter.png "IMDB V Scatterplt")
