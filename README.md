@@ -32,6 +32,20 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
     * Null: If A rated movies do not have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will not be higher than the IMDB rating for UA rated movies.
     * p-value = 0.049549781805392795
 
+# Findings
+* Q1:
+   * Result: Does not affect IMDB ratings of the current top 1000 IMDB titles
+   * Inferences: Identifying a target runtime won’t necessarily chance of being in the IMDB top 1000.
+* Q2:
+   * Result: There is no statistically significant difference in the gross earnings of high rated (above 7.9) vs. low rated (below 7.9) titles, for the top IMDB top 1000. 
+   * Inferences: If your goal is to make the IMDB top 1000 list, we conclude that focusing on gross earnings will not affect your chances.
+* Q3:
+   * Result: IMDB Rating were not well aligned with Metascore Ratings.
+   * Inferences: IMDB Ratings might not be the best measure of success. 
+* Q4:
+   * Result: A Certificate movies generally rated higher than UA movies. 
+   * Inference: You are more likely to be ranked higher on IMDB top 1000 if the title has an A certificate, rather than UA. 
+
 
 
 
