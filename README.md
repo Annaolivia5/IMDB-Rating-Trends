@@ -17,13 +17,17 @@ Does IMDB Ratings align with Metascore?
 Is there a significant difference in the IMDB top 1000 ratings between U certificates and UA certificates?
 
 # Analysis
-Q1: Scatterplot r-value: 0.25822381247916004. Runtime did not have an impact on IMDB ratings.
-Q2: Alternative: If a high IMDB rating earned more money, then movies rated above 7.9 will make more than movies rates below 7.9.
+Q1: 
+    Scatterplot r-value: 0.25822381247916004. Runtime did not have an impact on IMDB ratings.
+Q2: 
+    Alternative: If a high IMDB rating earned more money, then movies rated above 7.9 will make more than movies rates below 7.9.
     Null: If a high IMDB rating does not earned more money, then movies rated above 7.9 will not make more money than movies rates below 7.9.
     P-value=0.0707467425988131
-Q3: R-value = 0.280894. There was a positive but weak correlation between IMDB rating and metascore
-Q4: Alternative: If A rated movies have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will be higher than the IMDB rating for UA rated  movies.
-    Null: If A rated movies do not have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will not be higher than the IMDB rating for UA    rated movies.
+Q3: 
+    R-value = 0.280894. There was a positive but weak correlation between IMDB rating and metascore
+Q4: 
+    Alternative: If A rated movies have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will be higher than the IMDB rating for UA rated  movies.
+    Null: If A rated movies do not have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will not be higher than the IMDB rating for UA rated movies.
     p-value = 0.049549781805392795
 
 
