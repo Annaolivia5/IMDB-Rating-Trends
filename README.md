@@ -34,5 +34,5 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
 
 <img src="" width="100" height="100">
 
- ![IMDB V Meta Scatterplt](img src="/Figures/03_imdb_v_meta_scatter.png" "IMDB V Scatterplt" width="100" height="100")
+ ![IMDB V Meta Scatterplt]("/Figures/03_imdb_v_meta_scatter.png" "IMDB V Scatterplt" width="100" height="100")
 
