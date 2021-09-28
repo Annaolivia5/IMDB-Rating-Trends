@@ -5,7 +5,7 @@
 * To answer our questions, we used data accumulated from IMDB’s top 1000 titles.
 
 * Disclaimer: 
-* Our population consists of only the top 1000 rated titles on IMDB, and does not represent all titles in IMDB. Additionally, our data is not uniformly distributed, since titles * with IMDB rating lower than 7.6 were not included in the data. Therefore, assumptions made in our analysis only apply to titles with higher overall viewer sentiment.
+* Our population consists of only the top 1000 rated titles on IMDB, and does not represent all titles in IMDB. Additionally, our data is not uniformly distributed, since titles with IMDB rating lower than 7.6 were not included in the data. Therefore, assumptions made in our analysis only apply to titles with higher overall viewer sentiment.
 
 * Resources:
 Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
@@ -32,8 +32,7 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
     * Null: If A rated movies do not have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will not be higher than the IMDB rating for UA rated movies.
     * p-value = 0.049549781805392795
 
+<img src="" width="100" height="100">
 
-
-
-
+ ![IMDB V Meta Scatterplt](img src="/Figures/03_imdb_v_meta_scatter.png" "IMDB V Scatterplt" width="100" height="100")
 
