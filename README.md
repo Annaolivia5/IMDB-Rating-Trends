@@ -32,7 +32,7 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
     * Null: If A rated movies do not have higher overall viewer sentiment than UA rated movies, the IMDB rating for A rated movies will not be higher than the IMDB rating for UA rated movies.
     * p-value = 0.049549781805392795
 
-<img src="" width="100" height="100">
+<img src="![IMDB V Meta Scatterplt](/Figures/03_imdb_v_meta_scatter.png)" width="100" height="100">
 
- ![IMDB V Meta Scatterplt]("/Figures/03_imdb_v_meta_scatter.png" "IMDB V Scatterplt" width="100" height="100")
+
 
