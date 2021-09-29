@@ -51,7 +51,7 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
    * Inference: You are more likely to be ranked higher on IMDB top 1000 if the title has an A certificate, rather than UA. 
 
 
-#team
+# Team
     * Anna Weeks
     * Jess Ramirez
     * Robert Soriano
