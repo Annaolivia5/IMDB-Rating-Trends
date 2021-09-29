@@ -1,3 +1,4 @@
+
 # Purpose 
 * To uncover patterns in the top 1000 rated IMDB movies and TV shows, and to see if there are certain characteristics that will increase chances of being in the top 1000 IMDB titles list.
 
@@ -50,6 +51,9 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
    * Inference: You are more likely to be ranked higher on IMDB top 1000 if the title has an A certificate, rather than UA. 
 
 
-
+#team
+    * Anna Weeks
+    * Jess Ramirez
+    * Robert Soriano
 
 
