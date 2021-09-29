@@ -52,8 +52,8 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
 
 
 # Team
-    * Anna Weeks
-    * Jess Ramirez
-    * Robert Soriano
+* Anna Weeks
+* Jess Ramirez
+* Robert Soriano
 
 
