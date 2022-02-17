@@ -40,7 +40,7 @@ Shankhdhar, Harshit. “IMDB Movies Dataset.” Kaggle, 1 Feb. 2021, https://www
 
 # Findings
 * Q1:
-   * Result: Does not affect IMDB ratings of the current top 1000 IMDB titles
+   * Result: Runtime does not affect IMDB ratings of the current top 1000 IMDB titles
    * Inferences: Identifying a target runtime won’t necessarily chance of being in the IMDB top 1000.
 * Q2:
    * Result: There is no statistically significant difference in the gross earnings of high rated (above 7.9) vs. low rated (below 7.9) titles, for the top IMDB top 1000. 
