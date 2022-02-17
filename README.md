@@ -1,4 +1,6 @@
 
+# IMDB-Rating-Trends
+
 # Purpose 
 * To uncover patterns in the top 1000 rated IMDB movies and TV shows, and to see if there are certain characteristics that will increase chances of being in the top 1000 IMDB titles list.
 
